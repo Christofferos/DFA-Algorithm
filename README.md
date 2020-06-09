@@ -10,5 +10,5 @@ An algorithm that generates all accepted strings of length up to 5000 symbols fo
 
 #### Preview of test file format
 1. File format for test files: .in
-2. How to create your own runnable file for this algorithm:
+2. How to create your own runnable file for this algorithm: <br>
 ![Image of how test files should look like](ImagesReadme/testfileFormat.png)
