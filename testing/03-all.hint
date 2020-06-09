@@ -1,0 +1,2 @@
+Exempelfall 3: en automat som accepterar alla strängar på tecknen a-z.
+Automaten har 42 tillstånd men bara ett tillstånd (nr 23) används.
