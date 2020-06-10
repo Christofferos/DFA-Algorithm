@@ -12,3 +12,8 @@ An algorithm that generates all accepted strings of length up to 5000 symbols fo
 1. File format for test files: .in
 2. How to create your own runnable file for this algorithm: <br>
 ![Image of how test files should look like](ImagesReadme/testfileFormat.png)
+
+#### 500 Nodes, 5000 Transitions, 5000 Words Requested. Words displayed in ascending length order. Execution Time: 0.015s
+![Image of how test files should look like](ImagesReadme/preview.png)
+![Image of how test files should look like](ImagesReadme/preview3.png)
+![Image of how test files should look like](ImagesReadme/preview2.png)
